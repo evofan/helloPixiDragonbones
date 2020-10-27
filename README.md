@@ -7,6 +7,14 @@
 ・yarn(インストーラー形式)を先に入れておく  
 ・ncu -uでアップートかけたらwebpackでエラー出たので注意  
 
+reference  
+
+**DragonBones Offical Website**  
+[http://dragonbones.com/en/index.html](http://dragonbones.com/en/index.html)  
+
+**DragonBones / DragonBonesJS**  
+[https://github.com/DragonBones/DragonBonesJS](https://github.com/DragonBones/DragonBonesJS)  
+
 ***
 
 # Hello Pixi Dragonbones
