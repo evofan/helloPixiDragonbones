@@ -1,3 +1,14 @@
+
+<img src="https://evofan.github.io/helloPixiDragonbones/screenshot/pic_screenshot1.jpg" width="50%">  
+
+<img src="https://evofan.github.io/helloPixiDragonbones/screenshot/pic_screenshot2.jpg" width="50%">  
+
+↓に書いてある通りにインストールする。  
+・yarn(インストーラー形式)を先に入れておく  
+・ncu -uでアップートかけたらwebpackでエラー出たので注意  
+
+***
+
 # Hello Pixi Dragonbones
 *(Also known as: How to use Dragonbones with Pixi5 and Webpack without going insane)*
 
