@@ -15,6 +15,10 @@ reference
 **DragonBones / DragonBonesJS**  
 [https://github.com/DragonBones/DragonBonesJS](https://github.com/DragonBones/DragonBonesJS)  
 
+**DragonBones / Demos**  
+[https://github.com/DragonBones/Demos](https://github.com/DragonBones/Demos)  
+online demo  
+
 ***
 
 # Hello Pixi Dragonbones
